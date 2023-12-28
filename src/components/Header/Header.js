@@ -8,7 +8,7 @@ function Header() {
 
   return (
     <header className="header">
-      <Link to="/app2-GitPage-/">
+      <Link to="/app-2-GitHub-Pages/">
         <div className="header-left">
           <img src="./images/header_logo.svg" alt="logo" />
           <div className="info">
@@ -22,13 +22,13 @@ function Header() {
           <img src="./images/header_cart.svg" alt="cart" />
           <span className="text">{totalSumCart} руб.</span>
         </li>
-        <Link to="/app2-GitPage-/favorites">
+        <Link to="/app-2-GitHub-Pages/favorites">
           <li className="bookmarks" color="color_red">
             <img src="./images/header_bookmarks.svg" alt="bookmarks" />
             <span className="text">Закладки {counterFavorites()}</span>
           </li>
         </Link>
-        <Link to="/app2-GitPage-/orders">
+        <Link to="/app-2-GitHub-Pages/orders">
           <li className="profile">
             <img src="./images/header_profile.svg" alt="profile" />
             <span className="text">Профиль</span>

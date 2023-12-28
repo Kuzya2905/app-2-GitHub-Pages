@@ -1,5 +1,5 @@
 # Приложение магазина кроссовок c размещением на GitHub Pages
-https://kuzya2905.github.io/app2-GitPage-/
+https://kuzya2905.github.io/app-2-GitHub-Pages/
 
 
 # Getting Started with Create React App

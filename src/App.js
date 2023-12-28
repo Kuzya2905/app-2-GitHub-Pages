@@ -223,12 +223,12 @@ function App() {
       <div className="wrapper">
         <Header />
         <Routes>
-          <Route path="/app2-GitPage-/" element={<Home />} />
+          <Route path="/app-2-GitHub-Pages/" element={<Home />} />
           <Route
-            path="/app2-GitPage-/favorites"
+            path="/app-2-GitHub-Pages/favorites"
             element={<Favorites />}
           ></Route>
-          <Route path="/app2-GitPage-/orders" element={<Orders />}></Route>
+          <Route path="/app-2-GitHub-Pages/orders" element={<Orders />}></Route>
         </Routes>
         {stateCart ? <Cart /> : null}
       </div>

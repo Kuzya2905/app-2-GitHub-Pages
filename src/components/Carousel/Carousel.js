@@ -1,7 +1,7 @@
 function Carousel() {
   return (
     <div id="carouselExample" className="carousel slide">
-      <a href="https://kuzya2905.github.io/app2-GitPage-/">
+      <a href="https://kuzya2905.github.io/app-2-GitHub-Pages/">
         <div className="carousel-inner">
           <div className="carousel-item active">
             <img
