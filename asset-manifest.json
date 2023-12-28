@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/app2-GitPage-/static/css/main.fe2bc510.css",
+    "main.js": "/app2-GitPage-/static/js/main.2d9548ae.js",
+    "index.html": "/app2-GitPage-/index.html",
+    "static/media/search.svg": "/app2-GitPage-/static/media/search.48c52bf5d459537e27c0.svg",
+    "main.fe2bc510.css.map": "/app2-GitPage-/static/css/main.fe2bc510.css.map",
+    "main.2d9548ae.js.map": "/app2-GitPage-/static/js/main.2d9548ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe2bc510.css",
+    "static/js/main.2d9548ae.js"
+  ]
+}
