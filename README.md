@@ -1,4 +1,4 @@
-# Приложение магазина кроссовок c размещением на GitHub Pages
+# Приложение магазина кроссовок c deploy
 https://kuzya2905.github.io/app-2-GitHub-Pages/
 
 
