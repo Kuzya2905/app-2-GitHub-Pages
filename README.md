@@ -1,4 +1,4 @@
-# Приложение магазина кроссовок c deploy
+# Приложение магазина кроссовок (deploy)
 https://kuzya2905.github.io/app-2-GitHub-Pages/
 
 
